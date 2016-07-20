@@ -3,3 +3,6 @@
 .project
 node_modules
 .idea/
+utils/build/.ntvs_analysis.dat
+utils/build/.vs/BuildIrisThree/v14/.suo
+utils/build/.vs/config/applicationhost.config
